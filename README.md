@@ -1,6 +1,6 @@
 <h1 align="center">Salam! I'm Khira</h1>
 <h3 align="center">A CS student with no super programming powers. But I love coding!</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/35/b8/c2/35b8c2acd5f45b4279cdab846094a7bd.jpg">
+<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/35/b8/c2/35b8c2acd5f45b4279cdab846094a7bd.jpg">
 
 <br>
 
