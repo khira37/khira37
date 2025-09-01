@@ -8,7 +8,7 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=monaya37&show_icons=true&locale=en&layout=compact" alt="monaya37" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khira37&show_icons=true&locale=en&layout=compact" alt="khira37" /></p>
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monaya37&" alt="monaya37" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khira37&" alt="khira37" /></p>
