@@ -114,4 +114,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khira37&show_icons=true&locale=en&layout=compact" alt="khira37" /></p>
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khira37&" alt="khira37" /></p>
+<!--streak widget-->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khira37&" alt="khira37" /></p> -->
